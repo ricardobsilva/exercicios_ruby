@@ -1,1 +1,1 @@
-livros = ["matematica","portugues","ciencias", "historia", "estatistica"]
+livros = ["matematica","portugues","ciencias", "historia", "estatistica","Politica", "Ingles", "Filosofia"]
